@@ -2,12 +2,12 @@
 
 ---
 
-#Bio
+# Bio
 I am a student studying BSc Computing, part-time, at the University of South Wales. Alongside my degree,
 I work for the Office of National Statistics as a Software Developer. As an aspiring developer, I aim to pick up whatever
 skills/knowledge I can, be through work, university or personal projects.
 
-#Tech Stack
+# Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,cs,py,raspberrypi,sqlite&perline5)](https://skillicons.dev)
 
 I also have experience with reporting tools and database software, such as:
@@ -21,7 +21,7 @@ And some experience with the Web Content Management Tools:
 
 ---
 
-Please feel free to get in touch. My details can be found on my profile or at my website: [TotalDwarf.dev](https://www.totaldwarf.dev).
+Please feel free to get in touch. My details can be found on my profile or on my [Website](https://www.totaldwarf.dev).
 
 <!--
 **TotalDwarf03/TotalDwarf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
