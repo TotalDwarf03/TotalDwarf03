@@ -2,12 +2,12 @@
 
 ---
 
-# Bio
+# About Me
 I am a student studying BSc Computing, part-time, at the University of South Wales. Alongside my degree,
 I work for the Office of National Statistics as a Software Developer. As an aspiring developer, I aim to pick up whatever
 skills/knowledge I can, be through work, university or personal projects.
 
-# Tech Stack
+# Things I Use
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,cs,py,raspberrypi,sqlite&perline5)](https://skillicons.dev)
 
 I also have experience with reporting tools and database software, such as:
