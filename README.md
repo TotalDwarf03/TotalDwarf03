@@ -1,5 +1,11 @@
 ![GithubBanner](GithubBanner.png)
 
+## 👋
+
+Kieran.
+Software Engineer @ The Office for National Statistics.
+BSc (Hons) Computing Student @ The University of South Wales.
+
 ## 🔗
 
 - [Linkedin](https://www.linkedin.com/in/kprit-dev/)
