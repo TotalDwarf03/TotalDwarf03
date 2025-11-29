@@ -3,7 +3,9 @@
 ## 👋
 
 Kieran.
+
 Software Engineer @ The Office for National Statistics.
+
 BSc (Hons) Computing Student @ The University of South Wales.
 
 ## 🔗
